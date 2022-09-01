@@ -2,7 +2,7 @@
 
 -- fpm.package: fifthtry.github.io/chrome-book-cs
 zip: github.com/fifthtry/chrome-book-cs/archive/refs/heads/main.zip
-base: https://raw.githubusercontent.com/fifthtry/chrome-book-cs/main
+download-base-url: https://raw.githubusercontent.com/fifthtry/chrome-book-cs/main
 
 -- fpm.dependency: fifthtry.github.io/color-doc as cd
 -- fpm.dependency: fifthtry.github.io/package-doc as pd
