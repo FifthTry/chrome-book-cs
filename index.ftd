@@ -307,8 +307,8 @@ light: #4fb2df
 dark: #4fb2df
 
 -- ftd.color accent-tertiary-:
-light: #c5cbd7
-dark: #c5cbd7
+light: #f1f3f4
+dark: #f1f3f4
 
 -- ftd.pst accent-:
 primary: $accent-primary-
