@@ -102,12 +102,12 @@ light: #FFFFFF
 dark: #FFFFFF
 
 -- ftd.color step-1-:
-light: #F8F9FA
-dark: #F8F9FA
+light: #e7eff7
+dark: #e7eff7
 
 -- ftd.color step-2-:
-light: rgba(232, 240, 255, 0.4)
-dark: rgba(232, 240, 255, 0.4)
+light: #d4e3f2
+dark: #d4e3f2
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
@@ -134,8 +134,8 @@ light: #CAF0F8
 dark: #CAF0F8
 
 -- ftd.color text-:
-light:  #0A1A1F
-dark:  #0A1A1F
+light: #0A1A1F
+dark: #0A1A1F
 
 -- ftd.color text-strong-:
 light: #000000
@@ -464,4 +464,3 @@ tertiary: $main
 surface: $main
 surface-alt: $main
 glass: $main
-
