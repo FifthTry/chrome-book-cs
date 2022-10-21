@@ -20,18 +20,18 @@ padding-horizontal if $is-mobile: 20
 background-color: $fpm.color.main.background.base
 
 
--- pd.package: chrome-book-cs
-name: fifthtry.github.io/chrome-book-cs
+-- pd.package: spider-book-cs
+name: fifthtry.github.io/spider-book-cs
 
-chrome-book-cs  is a color scheme which can be used to change color scheme of web 
+spider-book-cs  is a color scheme which can be used to change color scheme of web 
 packages via using `FTD` lang.
 
-To use `chrome-book-cs` color scheme on your web package, add below into `FPM.ftd` file:
+To use `spider-book-cs` color scheme on your web package, add below into `FPM.ftd` file:
 
 -- cb.code:
 lang: ftd
 
-\-- fpm.dependency: fifthtry.github.io/chrome-book-cs as chrome-book
+\-- fpm.dependency: fifthtry.github.io/spider-book-cs as spider-book
 
 
 -- tf.markdown:
@@ -41,7 +41,7 @@ Import `blue-sapphire` into `FPM/config.ftd` file.
 -- cb.code:
 lang: ftd
 
-\-- import: chrome-book
+\-- import: spider-book
 
 -- color-display:
 color: $fpm.color
