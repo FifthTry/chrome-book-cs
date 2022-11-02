@@ -110,8 +110,8 @@ light: #d4e3f2
 dark: #d4e3f2
 
 -- ftd.color overlay-:
-light: rgba(0, 0, 0, 0.8)
-dark: rgba(0, 0, 0, 0.8)
+light: #c8d6e496
+dark: #c8d6e496
 
 -- ftd.color code-:
 light: #2B303B
@@ -404,8 +404,8 @@ light: #eb57be
 dark: #eb57be
 
 -- ftd.color custom-six-:
-light: #ef8dd6
-dark: #ef8dd6
+light: rgba(0, 0, 0, 0.8)
+dark: rgba(0, 0, 0, 0.8)
 
 -- ftd.color custom-seven-:
 light: #7564be
